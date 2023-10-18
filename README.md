@@ -2,9 +2,9 @@
 
 # Explicacion ramas
 
-## main es la rama default
 
-- main_course estan todos los archivos del curso
+
+- main estan todos los archivos del curso
 - MIA estan los archivos del colab del modulo de modelos de Inteligencia artificial
 - PIA programacion inteligencia artificial  estan los archivos
 - SAA Sistemas de aprendizaje automatico estan los archivos
